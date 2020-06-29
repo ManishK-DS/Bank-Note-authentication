@@ -3,7 +3,7 @@
 
 ![Untitled](https://user-images.githubusercontent.com/37763863/86006297-63484300-ba33-11ea-91a7-8dc11debce09.png)
 
-## GET method take numeric values as input
+## GET method takes numeric values as input
 
 ![image](https://user-images.githubusercontent.com/37763863/86007628-4d3b8200-ba35-11ea-8a1e-2021c1b4a67a.png)
 
