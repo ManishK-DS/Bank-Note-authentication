@@ -1,5 +1,5 @@
 # Web application
-## Bank Note authentication using flask, swagger and further deploying the application using docker.
+## Bank Note authentication using flask, swagger and further deploying it using docker.
 
 ![Untitled](https://user-images.githubusercontent.com/37763863/86006297-63484300-ba33-11ea-91a7-8dc11debce09.png)
 
